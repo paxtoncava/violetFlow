@@ -64,19 +64,19 @@ docs/        Documentation site, logs
 
 ## Safety
 
-Dispose of all household waste at nearest SWA household waste collection facility.
+Crystal violet is toxic and sodium hydroxide is corrosive, even when dilute. Wear goggles and nitrile gloves, keep the setup in a spill tray, and never pour waste down the drain. Collect it and take it to a household hazardous waste facility (in Palm Beach County, the SWA).
 
 ## License
 
-Code is released under the [MIT License](LICENSE). Hardware design files will be released once they are published.
+Code is released under the [MIT License](LICENSE). Hardware design files will be released under CERN-OHL-P.
 
 ## Acknowledgements
 
-The syringe pumps are built from the open source [Poseidon](https://pachterlab.github.io/poseidon/about) design by the Pachter Lab. Parts were substituted where the originals were unavailable; see `hardware/README.md` for chances.
+The syringe pumps are built from the open source [Poseidon](https://pachterlab.github.io/poseidon/about) design by the Pachter Lab. Parts were substituted where the originals were unavailable; see `hardware/README.md` for changes.
 
 Booeshaghi, A. S., da Veiga Beltrame, E., Bannon, D., Gehring, J., & Pachter, L. (2019).
 Principles of open source bioinstrumentation applied to the poseidon syringe pump system.
-*Scientific Reports*, 9, 12385. https:/doi.org/10.1038/s41598-019-48815-9
+*Scientific Reports*, 9, 12385. https://doi.org/10.1038/s41598-019-48815-9
 
 ## Author
 
