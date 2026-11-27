@@ -1,6 +1,6 @@
 # Hardware
 
-The syringe pumps are built from the [Poseidon](https://patcherlab.github.io/poseidon/about) design (Patcher Lab, Caltech).
+The syringe pumps are built from the [Poseidon](https://pachterlab.github.io/poseidon/about) design (Pachter Lab, Caltech).
 
 Changes from the original Poseidon parts list were made where originals were unavailable:
 1. NEMA 17 stepper substituted with MAKERELE NEMA 17
