@@ -70,6 +70,14 @@ Dispose of all household waste at nearest SWA household waste collection facilit
 
 Code is released under the [MIT License](LICENSE). Hardware design files will be released once they are published.
 
+## Acknowledgements
+
+The syringe pumps are built from the open source [Poseidon](https://pachterlab.github.io/poseidon/about) design by the Pachter Lab. Parts were substituted where the originals were unavailable; see `hardware/README.md` for chances.
+
+Booeshaghi, A. S., da Veiga Beltrame, E., Bannon, D., Gehring, J., & Pachter, L. (2019).
+Principles of open source bioinstrumentation applied to the poseidon syringe pump system.
+*Scientific Reports*, 9, 12385. https:/doi.org/10.1038/s41598-019-48815-9
+
 ## Author
 
 Paxton Cava
